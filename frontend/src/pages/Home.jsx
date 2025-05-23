@@ -11,8 +11,8 @@ function Home() {
   ];
 
   const handleSearch = () => {
-    alert(searchQuery)
-    setSearchQuery("")
+    alert(searchQuery);
+    setSearchQuery("");
   };
 
   return (

@@ -3,9 +3,9 @@ import Home from "./pages/home";
 
 function App() {
   return (
-    <>
-      <Home />
-    </>
+    <main className="main-content">
+      <Routes></Routes>
+    </main>>
   );
 }
 
